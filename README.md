@@ -15,7 +15,7 @@ This Python application connects to a MySQL database, displays its tables in a g
 1. Clone the repository:
 
    cli:
-   git clone https://github.com/your-username/mydb_exporter.git
+   git clone 
 
 2. Navigate to the project directory:
     cli: 
