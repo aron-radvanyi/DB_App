@@ -15,7 +15,7 @@ This Python application connects to a MySQL database, displays its tables in a g
 1. Clone the repository:
 
    cli:
-   git clone 
+   git clone https://github.com/aron-radvanyi/DB_App/tree/main
 
 2. Navigate to the project directory:
     cli: 
